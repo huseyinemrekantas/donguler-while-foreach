@@ -1,0 +1,15 @@
+C:\Users\husey\Desktop\Practics\donguler-while-foreach\bin\Debug\net7.0\donguler-while-foreach.exe
+C:\Users\husey\Desktop\Practics\donguler-while-foreach\bin\Debug\net7.0\donguler-while-foreach.deps.json
+C:\Users\husey\Desktop\Practics\donguler-while-foreach\bin\Debug\net7.0\donguler-while-foreach.runtimeconfig.json
+C:\Users\husey\Desktop\Practics\donguler-while-foreach\bin\Debug\net7.0\donguler-while-foreach.dll
+C:\Users\husey\Desktop\Practics\donguler-while-foreach\bin\Debug\net7.0\donguler-while-foreach.pdb
+C:\Users\husey\Desktop\Practics\donguler-while-foreach\obj\Debug\net7.0\donguler-while-foreach.csproj.AssemblyReference.cache
+C:\Users\husey\Desktop\Practics\donguler-while-foreach\obj\Debug\net7.0\donguler-while-foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husey\Desktop\Practics\donguler-while-foreach\obj\Debug\net7.0\donguler-while-foreach.AssemblyInfoInputs.cache
+C:\Users\husey\Desktop\Practics\donguler-while-foreach\obj\Debug\net7.0\donguler-while-foreach.AssemblyInfo.cs
+C:\Users\husey\Desktop\Practics\donguler-while-foreach\obj\Debug\net7.0\donguler-while-foreach.csproj.CoreCompileInputs.cache
+C:\Users\husey\Desktop\Practics\donguler-while-foreach\obj\Debug\net7.0\donguler-while-foreach.dll
+C:\Users\husey\Desktop\Practics\donguler-while-foreach\obj\Debug\net7.0\refint\donguler-while-foreach.dll
+C:\Users\husey\Desktop\Practics\donguler-while-foreach\obj\Debug\net7.0\donguler-while-foreach.pdb
+C:\Users\husey\Desktop\Practics\donguler-while-foreach\obj\Debug\net7.0\donguler-while-foreach.genruntimeconfig.cache
+C:\Users\husey\Desktop\Practics\donguler-while-foreach\obj\Debug\net7.0\ref\donguler-while-foreach.dll
